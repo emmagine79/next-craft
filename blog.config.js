@@ -1,6 +1,6 @@
 const BLOG = {
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW']
-  appearance: 'dark', // ['light', 'dark', 'auto'],
+  appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#FFFFFF', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#222222', // use hex value, don't forget '#'
